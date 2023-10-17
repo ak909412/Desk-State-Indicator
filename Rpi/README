@@ -1,0 +1,8 @@
+The RPi will fetch the data (JSON format) from the api/local folder (in this case local folder) 
+the sample data looks like this:
+ [
+   {"desk_number":1, "In-Time": "12:00:00", "Out-Time": "15:00:00"}
+   more can be added
+ ]
+
+it will fetch the state of desk and send the command accordingly to the esp corresponding to the desk number. (to esp 1 in this case)
