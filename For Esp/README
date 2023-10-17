@@ -1,0 +1,1 @@
+The ESP is set up on a local server it will reveive command from Rpi via the local serever (Both Rpi and ESP is connected to same WiFi)
